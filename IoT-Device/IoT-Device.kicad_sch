@@ -10867,15 +10867,15 @@
 		(dnp no)
 		(uuid "4983f507-862a-43fb-90cd-247e8253c247")
 		(property "Reference" "U1"
-			(at 196.088 144.526 0)
+			(at 196.088 154.178 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "STM32U585VITx"
-			(at 198.628 145.542 0)
+		(property "Value" "STM32U585VI"
+			(at 196.088 145.288 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12928,7 +12928,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Conn_ARM_JTAG_SWD_10"
+		(property "Value" "SWD"
 			(at 247.65 144.7799 0)
 			(effects
 				(font
@@ -13288,7 +13288,7 @@
 				)
 			)
 		)
-		(property "Value" "USB_C_Receptacle_USB2.0_16P"
+		(property "Value" "USB-C"
 			(at 34.29 24.13 0)
 			(effects
 				(font
