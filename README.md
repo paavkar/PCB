@@ -15,7 +15,7 @@ used in 2.0 speed to give the board power and program the board.
 ### Schematic
 
 You can take a look at the schematic in this repo from this
-<a href="/IoT-Device/schematic-pdf">link.</a>
+<a href="/IoT-Device/schematic.pdf">link.</a>
 
 ## Metro-M4-Express-Shield
 
