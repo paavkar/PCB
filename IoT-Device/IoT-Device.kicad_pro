@@ -619,7 +619,7 @@
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
-      "intersheets_ref_show": false,
+      "intersheets_ref_show": true,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
       "label_size_ratio": 0.375,
@@ -661,6 +661,10 @@
     [
       "c28d0510-3574-42bd-a404-b115c4b1ce64",
       "Root"
+    ],
+    [
+      "4c4a267d-2d02-4328-9c6a-01621e7c4063",
+      "Sensors, LEDs, and buttons"
     ]
   ],
   "text_variables": {}
