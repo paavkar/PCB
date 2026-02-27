@@ -7112,6 +7112,16 @@
 	)
 	(wire
 		(pts
+			(xy 85.09 171.45) (xy 91.44 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2394940b-2f61-4c22-9996-319105e5d19a")
+	)
+	(wire
+		(pts
 			(xy 72.39 160.02) (xy 72.39 165.1)
 		)
 		(stroke
@@ -8162,16 +8172,6 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 168.91) (xy 85.09 171.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9b7e44e9-e46d-4481-8be1-21918cea550b")
-	)
-	(wire
-		(pts
 			(xy 201.93 134.62) (xy 200.66 134.62)
 		)
 		(stroke
@@ -8899,6 +8899,16 @@
 			(type default)
 		)
 		(uuid "e19b8987-42f3-4d32-b5ff-95a87e2e606e")
+	)
+	(wire
+		(pts
+			(xy 99.06 171.45) (xy 99.06 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e46f1383-95d1-4d7a-b1aa-60e8649d74a9")
 	)
 	(wire
 		(pts
@@ -10835,6 +10845,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 95.25 171.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "267b8137-656e-4a3b-a5cd-d285798c36ef")
+		(property "Reference" "R22"
+			(at 93.472 173.482 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 92.71 169.418 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 95.25 173.228 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 95.25 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 95.25 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6a7ac603-5d19-4ec0-9283-3656fa3de84d")
+		)
+		(pin "1"
+			(uuid "036c02d4-6fab-42b8-acd1-f4d05a529bb3")
+		)
+		(instances
+			(project "IoT-Device"
+				(path "/c28d0510-3574-42bd-a404-b115c4b1ce64"
+					(reference "R22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 185.42 39.37 0)
 		(unit 1)
@@ -10908,10 +10985,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2744513f-b803-4f04-95db-cb6da99fa9d2")
 		(property "Reference" "SW2"
-			(at 92.71 175.2599 90)
+			(at 91.44 177.038 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10920,7 +10996,7 @@
 			)
 		)
 		(property "Value" "BOOT_MODE"
-			(at 92.71 177.7999 90)
+			(at 91.44 179.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15063,7 +15139,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 85.09 168.91 90)
+		(at 99.06 173.99 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15071,7 +15147,7 @@
 		(dnp no)
 		(uuid "ac8ed80f-2f2f-41e5-92d8-aad353548f9b")
 		(property "Reference" "#PWR020"
-			(at 91.44 168.91 0)
+			(at 105.41 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15080,7 +15156,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 85.09 171.196 90)
+			(at 99.06 176.276 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15089,7 +15165,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 85.09 168.91 0)
+			(at 99.06 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15098,7 +15174,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 85.09 168.91 0)
+			(at 99.06 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15107,7 +15183,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 85.09 168.91 0)
+			(at 99.06 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16942,10 +17018,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "fe6e4dc0-8cad-4711-93df-4d76b07097f1")
 		(property "Reference" "R6"
-			(at 97.79 161.29 90)
+			(at 99.568 165.354 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16953,7 +17028,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 97.79 163.83 90)
+			(at 95.25 165.608 90)
 			(effects
 				(font
 					(size 1.27 1.27)
