@@ -665,6 +665,10 @@
     [
       "4c4a267d-2d02-4328-9c6a-01621e7c4063",
       "Sensors, LEDs, and buttons"
+    ],
+    [
+      "bbda3a2e-2126-4e1c-8f35-d10830aa145e",
+      "Peripherals"
     ]
   ],
   "text_variables": {}

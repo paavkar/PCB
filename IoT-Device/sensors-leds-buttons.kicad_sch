@@ -967,7 +967,7 @@
 		)
 		(uuid "9af8c361-4731-47d5-851d-c658fb608aac")
 	)
-	(text "BUTTONS"
+	(text "Buttons"
 		(exclude_from_sim no)
 		(at 128.778 16.002 0)
 		(effects
