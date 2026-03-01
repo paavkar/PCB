@@ -6365,12 +6365,6 @@
 		(uuid "17daf8e3-8239-43f5-a50e-1abf6e8684da")
 	)
 	(junction
-		(at 90.17 167.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1c013339-3976-4ef9-b17f-618b0c4a5513")
-	)
-	(junction
 		(at 34.29 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6435,6 +6429,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "51f67981-22d3-4a1e-b401-e3850c3b6292")
+	)
+	(junction
+		(at 85.09 167.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5287717f-e183-466a-a09d-1d45b563ce19")
 	)
 	(junction
 		(at 44.45 135.89)
@@ -6870,6 +6870,16 @@
 	)
 	(wire
 		(pts
+			(xy 90.17 171.45) (xy 91.44 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "058ca857-ca29-4216-837c-434b6d09967f")
+	)
+	(wire
+		(pts
 			(xy 49.53 160.02) (xy 50.8 160.02)
 		)
 		(stroke
@@ -7060,7 +7070,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 220.98) (xy 52.07 222.25)
+			(xy 52.07 224.79) (xy 52.07 226.06)
 		)
 		(stroke
 			(width 0)
@@ -7100,7 +7110,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 220.98) (xy 127 222.25)
+			(xy 127 224.79) (xy 127 226.06)
 		)
 		(stroke
 			(width 0)
@@ -7227,16 +7237,6 @@
 			(type default)
 		)
 		(uuid "22a154c3-e38c-4739-869c-8c8bc41fa21e")
-	)
-	(wire
-		(pts
-			(xy 85.09 171.45) (xy 91.44 171.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2394940b-2f61-4c22-9996-319105e5d19a")
 	)
 	(wire
 		(pts
@@ -7540,7 +7540,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 220.98) (xy 119.38 222.25)
+			(xy 119.38 224.79) (xy 119.38 226.06)
 		)
 		(stroke
 			(width 0)
@@ -7760,7 +7760,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 220.98) (xy 67.31 222.25)
+			(xy 67.31 224.79) (xy 67.31 226.06)
 		)
 		(stroke
 			(width 0)
@@ -7920,16 +7920,6 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 167.64) (xy 93.98 167.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6811e89e-0c29-4c2b-a7d6-60605d6a7f07")
-	)
-	(wire
-		(pts
 			(xy 173.99 57.15) (xy 175.26 57.15)
 		)
 		(stroke
@@ -7980,7 +7970,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 167.64) (xy 90.17 167.64)
+			(xy 85.09 167.64) (xy 93.98 167.64)
 		)
 		(stroke
 			(width 0)
@@ -8100,7 +8090,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 220.98) (xy 129.54 222.25)
+			(xy 129.54 224.79) (xy 129.54 226.06)
 		)
 		(stroke
 			(width 0)
@@ -8140,7 +8130,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 220.98) (xy 132.08 222.25)
+			(xy 132.08 224.79) (xy 132.08 226.06)
 		)
 		(stroke
 			(width 0)
@@ -8230,7 +8220,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 220.98) (xy 57.15 222.25)
+			(xy 57.15 224.79) (xy 57.15 226.06)
 		)
 		(stroke
 			(width 0)
@@ -8310,7 +8300,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 220.98) (xy 124.46 222.25)
+			(xy 124.46 224.79) (xy 124.46 226.06)
 		)
 		(stroke
 			(width 0)
@@ -8437,6 +8427,16 @@
 			(type default)
 		)
 		(uuid "9c2ea887-baa3-46bd-9d9f-7399c28ec93b")
+	)
+	(wire
+		(pts
+			(xy 85.09 167.64) (xy 85.09 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9cc89797-6fee-467c-b381-6cdfd1206ede")
 	)
 	(wire
 		(pts
@@ -8570,7 +8570,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 220.98) (xy 59.69 222.25)
+			(xy 59.69 224.79) (xy 59.69 226.06)
 		)
 		(stroke
 			(width 0)
@@ -8770,16 +8770,6 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 167.64) (xy 90.17 171.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "befd29e2-b0de-4a9a-9159-637412e1b30f")
-	)
-	(wire
-		(pts
 			(xy 49.53 160.02) (xy 45.72 160.02)
 		)
 		(stroke
@@ -8810,7 +8800,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 220.98) (xy 64.77 222.25)
+			(xy 64.77 224.79) (xy 64.77 226.06)
 		)
 		(stroke
 			(width 0)
@@ -8890,7 +8880,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 220.98) (xy 54.61 222.25)
+			(xy 54.61 224.79) (xy 54.61 226.06)
 		)
 		(stroke
 			(width 0)
@@ -8900,7 +8890,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 220.98) (xy 116.84 222.25)
+			(xy 116.84 224.79) (xy 116.84 226.06)
 		)
 		(stroke
 			(width 0)
@@ -9280,7 +9270,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 220.98) (xy 62.23 222.25)
+			(xy 62.23 224.79) (xy 62.23 226.06)
 		)
 		(stroke
 			(width 0)
@@ -9350,7 +9340,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 220.98) (xy 121.92 222.25)
+			(xy 121.92 224.79) (xy 121.92 226.06)
 		)
 		(stroke
 			(width 0)
@@ -9410,7 +9400,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 220.98) (xy 134.62 222.25)
+			(xy 134.62 224.79) (xy 134.62 226.06)
 		)
 		(stroke
 			(width 0)
@@ -9519,7 +9509,7 @@
 		(uuid "01ffbe51-209f-43a3-a622-7322ec493079")
 	)
 	(label "SDMMC1_D1"
-		(at 124.46 220.98 90)
+		(at 124.46 224.79 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9529,7 +9519,7 @@
 		(uuid "06d0a87e-ceb3-419f-ab57-4fa4d2299bf9")
 	)
 	(label "USART2_RX"
-		(at 280.67 27.94 180)
+		(at 280.67 30.48 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9559,7 +9549,7 @@
 		(uuid "0a22a54f-9940-41e9-9afd-ffe8ee8d987d")
 	)
 	(label "NEOPIXEL"
-		(at 62.23 220.98 90)
+		(at 62.23 224.79 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9589,7 +9579,7 @@
 		(uuid "140b3a29-8f6b-4bae-8c9c-f79de2817d4d")
 	)
 	(label "B2"
-		(at 54.61 220.98 90)
+		(at 54.61 224.79 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9619,7 +9609,7 @@
 		(uuid "178cc316-59d8-4c67-9622-ced394fb1dae")
 	)
 	(label "LED1"
-		(at 57.15 220.98 90)
+		(at 57.15 224.79 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9629,7 +9619,7 @@
 		(uuid "197f9455-e349-447b-a568-012086c0cca4")
 	)
 	(label "SD_DET_B"
-		(at 134.62 220.98 90)
+		(at 134.62 224.79 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9649,7 +9639,7 @@
 		(uuid "1d7347f2-0872-4906-b946-3f071f2cef65")
 	)
 	(label "LED2"
-		(at 59.69 220.98 90)
+		(at 59.69 224.79 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9679,7 +9669,7 @@
 		(uuid "23e297bb-4ca1-4bf7-9148-a219536f4084")
 	)
 	(label "SDMMC1_CK"
-		(at 116.84 220.98 90)
+		(at 116.84 224.79 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9699,7 +9689,7 @@
 		(uuid "2d582561-ee4d-47a2-836c-232738be0239")
 	)
 	(label "USART2_TX"
-		(at 280.67 30.48 180)
+		(at 280.67 27.94 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9829,7 +9819,7 @@
 		(uuid "4511790c-5df6-4c78-b2c9-736239d09469")
 	)
 	(label "SDMMC1_D3"
-		(at 129.54 220.98 90)
+		(at 129.54 224.79 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9839,7 +9829,7 @@
 		(uuid "46dfee10-ac4d-4d3c-a470-d831a75e416f")
 	)
 	(label "SD_DET_A"
-		(at 132.08 220.98 90)
+		(at 132.08 224.79 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9879,7 +9869,7 @@
 		(uuid "5b2a9435-0d50-4af3-8fc0-c174a9ee8a9d")
 	)
 	(label "RX_LED"
-		(at 64.77 220.98 90)
+		(at 64.77 224.79 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9929,7 +9919,7 @@
 		(uuid "6925c9ae-0a7e-4a25-90d6-840ffb75b3b2")
 	)
 	(label "TX_LED"
-		(at 67.31 220.98 90)
+		(at 67.31 224.79 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10229,7 +10219,7 @@
 		(uuid "c12ce962-fb89-4991-ab5c-915a307ebc4a")
 	)
 	(label "B1"
-		(at 52.07 220.98 90)
+		(at 52.07 224.79 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10239,7 +10229,7 @@
 		(uuid "c4e78c6f-cd6d-48f7-b45a-963b92869ccb")
 	)
 	(label "SDMMC1_D0"
-		(at 121.92 220.98 90)
+		(at 121.92 224.79 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10269,7 +10259,7 @@
 		(uuid "eb8776be-4780-4c3b-a1d5-ed957179fec5")
 	)
 	(label "SDMMC1_D2"
-		(at 127 220.98 90)
+		(at 127 224.79 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10279,7 +10269,7 @@
 		(uuid "f310c1c5-fcf8-4508-946f-5f45dd7d77ff")
 	)
 	(label "SDMMC1_CMD"
-		(at 119.38 220.98 90)
+		(at 119.38 224.79 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11705,7 +11695,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "BOOT_MODE"
+		(property "Value" "SW_SPDT"
 			(at 91.44 179.07 90)
 			(effects
 				(font
@@ -14574,7 +14564,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SWD"
+		(property "Value" "Conn_ARM_JTAG_SWD_10"
 			(at 246.38 113.0299 0)
 			(effects
 				(font
@@ -15057,18 +15047,17 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9692012f-b442-4b1a-8502-3551cc676e2a")
 		(property "Reference" "J1"
-			(at 34.29 21.59 0)
+			(at 34.29 23.368 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "USB-C"
-			(at 34.29 24.13 0)
+		(property "Value" "USB_C_Receptacle_USB2.0_16P"
+			(at 32.766 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15452,10 +15441,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9d978ea9-ebcb-40ba-9ddb-e76f2b28367a")
 		(property "Reference" "F1"
-			(at 57.15 22.86 90)
+			(at 57.15 25.908 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15463,7 +15451,7 @@
 			)
 		)
 		(property "Value" "Fuse"
-			(at 57.15 25.4 90)
+			(at 57.15 27.432 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17788,7 +17776,7 @@
 		)
 	)
 	(sheet
-		(at 10.16 222.25)
+		(at 10.16 226.06)
 		(size 82.55 53.34)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17804,7 +17792,7 @@
 		)
 		(uuid "4c4a267d-2d02-4328-9c6a-01621e7c4063")
 		(property "Sheetname" "Sensors, LEDs, and buttons"
-			(at 10.16 221.5384 0)
+			(at 10.16 225.3484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17813,7 +17801,7 @@
 			)
 		)
 		(property "Sheetfile" "sensors-leds-buttons.kicad_sch"
-			(at 10.16 276.1746 0)
+			(at 10.16 279.9846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17822,7 +17810,7 @@
 			)
 		)
 		(pin "B1" input
-			(at 52.07 222.25 90)
+			(at 52.07 226.06 90)
 			(uuid "b395dbbf-e251-4071-b0cb-b0eb677d8d90")
 			(effects
 				(font
@@ -17832,7 +17820,7 @@
 			)
 		)
 		(pin "B2" input
-			(at 54.61 222.25 90)
+			(at 54.61 226.06 90)
 			(uuid "1c102d59-def6-428f-95cb-92e487bfc443")
 			(effects
 				(font
@@ -17842,7 +17830,7 @@
 			)
 		)
 		(pin "LED1" input
-			(at 57.15 222.25 90)
+			(at 57.15 226.06 90)
 			(uuid "3606bbaa-ed3d-4207-a1ca-82f9f1182595")
 			(effects
 				(font
@@ -17852,7 +17840,7 @@
 			)
 		)
 		(pin "LED2" input
-			(at 59.69 222.25 90)
+			(at 59.69 226.06 90)
 			(uuid "e06433b1-9369-4237-83d6-d697f56dcd64")
 			(effects
 				(font
@@ -17862,7 +17850,7 @@
 			)
 		)
 		(pin "NEOPIXEL" input
-			(at 62.23 222.25 90)
+			(at 62.23 226.06 90)
 			(uuid "27ce8e0a-cda6-4113-9a88-43c17a681880")
 			(effects
 				(font
@@ -17872,7 +17860,7 @@
 			)
 		)
 		(pin "RX_LED" input
-			(at 64.77 222.25 90)
+			(at 64.77 226.06 90)
 			(uuid "202012ce-629a-4e19-85c9-8fd0ca223734")
 			(effects
 				(font
@@ -17882,7 +17870,7 @@
 			)
 		)
 		(pin "TX_LED" input
-			(at 67.31 222.25 90)
+			(at 67.31 226.06 90)
 			(uuid "67436a0f-036c-4c8d-b82f-6b507e4945a8")
 			(effects
 				(font
@@ -17900,7 +17888,7 @@
 		)
 	)
 	(sheet
-		(at 97.79 222.25)
+		(at 97.79 226.06)
 		(size 60.96 53.34)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17916,7 +17904,7 @@
 		)
 		(uuid "bbda3a2e-2126-4e1c-8f35-d10830aa145e")
 		(property "Sheetname" "Peripherals"
-			(at 97.79 221.5384 0)
+			(at 97.79 225.3484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17925,7 +17913,7 @@
 			)
 		)
 		(property "Sheetfile" "peripherals.kicad_sch"
-			(at 97.79 276.1746 0)
+			(at 97.79 279.9846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17934,7 +17922,7 @@
 			)
 		)
 		(pin "SDMMC1_CK" input
-			(at 116.84 222.25 90)
+			(at 116.84 226.06 90)
 			(uuid "31992716-ef04-4c6a-bd38-83ce9b330819")
 			(effects
 				(font
@@ -17944,7 +17932,7 @@
 			)
 		)
 		(pin "SDMMC1_CMD" input
-			(at 119.38 222.25 90)
+			(at 119.38 226.06 90)
 			(uuid "d533d66a-c1a0-4ad2-ab75-994674083e13")
 			(effects
 				(font
@@ -17954,7 +17942,7 @@
 			)
 		)
 		(pin "SDMMC1_D0" input
-			(at 121.92 222.25 90)
+			(at 121.92 226.06 90)
 			(uuid "f8699be1-3150-462a-82fa-650d52db4b52")
 			(effects
 				(font
@@ -17964,7 +17952,7 @@
 			)
 		)
 		(pin "SDMMC1_D1" input
-			(at 124.46 222.25 90)
+			(at 124.46 226.06 90)
 			(uuid "05ef4574-d4c2-4fdc-96ca-0cbf9a1e6aa7")
 			(effects
 				(font
@@ -17974,7 +17962,7 @@
 			)
 		)
 		(pin "SDMMC1_D2" input
-			(at 127 222.25 90)
+			(at 127 226.06 90)
 			(uuid "503a5081-7c42-46e0-be55-aeb65e4a0740")
 			(effects
 				(font
@@ -17984,7 +17972,7 @@
 			)
 		)
 		(pin "SDMMC1_D3" input
-			(at 129.54 222.25 90)
+			(at 129.54 226.06 90)
 			(uuid "12f34385-a160-4d02-bc0d-f5e0e7872719")
 			(effects
 				(font
@@ -17994,7 +17982,7 @@
 			)
 		)
 		(pin "SD_DET_A" input
-			(at 132.08 222.25 90)
+			(at 132.08 226.06 90)
 			(uuid "4dcf3f22-c820-48c2-ba99-d24996529f32")
 			(effects
 				(font
@@ -18004,7 +17992,7 @@
 			)
 		)
 		(pin "SD_DET_B" input
-			(at 134.62 222.25 90)
+			(at 134.62 226.06 90)
 			(uuid "dc707538-4106-4941-92b0-4319f9a066a1")
 			(effects
 				(font
