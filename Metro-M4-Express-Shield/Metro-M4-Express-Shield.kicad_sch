@@ -4187,7 +4187,7 @@
 		(uuid "3fc0cd0e-f601-48be-89d6-16ff8d7d1c87")
 	)
 	(label "D1{slash}TX"
-		(at 71.12 123.19 180)
+		(at 71.12 128.27 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4477,7 +4477,7 @@
 		(uuid "af4dd5a1-ecdd-4d02-a82c-6760cc1ab262")
 	)
 	(label "D0{slash}RX"
-		(at 71.12 128.27 180)
+		(at 71.12 123.19 180)
 		(effects
 			(font
 				(size 1.27 1.27)
